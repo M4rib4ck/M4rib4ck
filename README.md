@@ -34,7 +34,7 @@
 ---
 
 ## ♦ Meus interesses 
-* *Exploração de novas tecnologias
+* * Exploração de novas tecnologias
 * * Desenvolvimento de projetos alternativos
 * * Compartilhar conhecimento e aprendizado
 
