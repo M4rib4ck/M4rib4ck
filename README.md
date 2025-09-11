@@ -1,16 +1,43 @@
-## Hi there 👋
+# Oi, me chamo Maria Eduarda Carvalho｡ 
+⋆𖦹°⭒˚｡⋆⋆｡𖦹°⭒˚｡⋆ 
 
-<!--
-**M4rib4ck/M4rib4ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧷**Cursando:** Engenharia de Software na Faculdade de Vassouras 
 
-Here are some ideas to get you started:
+🧷**Estudando:** Python para Back-End (Softex Pernambuco) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧷**Áreas de interesse:** Desenvolvimento de Software, Back-End, Automação e Análise de Dados 
+
+🧷**Localização:** Maricá, RJ, Brasil 
+
+--- 
+
+## ♦ Habilidades e Conhecimentos 
+
+🧷* Linguagens de Programação: Python 
+
+🧷* Frameworks / Ferramentas: Git/GitHub, VSCode 
+
+🧷* Conceitos: Programação Orientada a Objetos, Banco de Dados Relacional, Algoritmos e Estruturas de Dados
+
+--- 
+
+## ♦ Minhas Conquistas Acadêmicas 
+🧷* Participante do curso **Softex Pernambuco** – Back-End com Python 
+🧷* Experiência em **projetos pessoais** de automação e scripts com Python 
+
+--- 
+
+## ♦ Estatísticas do GitHub 
+![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4rib4ck&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rib4ck&layout=compact&theme=tokyonight) 
+
+---
+
+## ♦ Meus interesses 
+* *Exploração de novas tecnologias
+* * Desenvolvimento de projetos alternativos
+* * Compartilhar conhecimento e aprendizado
+
+---
+
+✩‧₊˚༺☆༻*ੈ✩‧₊˚ Obrigada por visitar meu perfil! ✩‧₊˚༺☆༻*ੈ✩‧₊˚
